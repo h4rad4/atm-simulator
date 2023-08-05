@@ -18,5 +18,3 @@ for i in range(0, 5):
         print(f"{qtd[i]} notas de {valores[i]}", end=", ")
     elif qtd[i] == 1:
         print(f"1 nota de {valores[i]}", end=", ")
-
-print("\b\b  ")
